@@ -6,7 +6,7 @@ Thanks to the support of the leader, Jing Li.
 
 ## Citation
 
-If you find our code or dataset helpful in your research, please cite our paper:
+If you find our work helpful in your research, please cite our paper:
 ```
 @article{cao2026parameter,
   title={Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing},
